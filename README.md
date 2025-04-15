@@ -12,7 +12,7 @@ I'm currently focused on data-driven storytelling and building dashboards that s
 
 - **Data Tools**: Power BI, Ms Excel, SQL, Python (basic), Power Query  
 - **Finance & Audit**: Financial reporting, risk assessment, internal controls, fraud prevention, Forensic Audit.  
-- **Certifications**: **ACA** (ICAN), **CFE** (ACFE), **Data Analytics** ((Edgeline Academy & DataCamp (in progress)).  
+- **Certifications**: **CFE** (ACFE), **ACA** (ICAN), **Data Analytics** ((Edgeline Academy & DataCamp (in progress)).  
 - **Soft Skills**: Attention to details, analytical thinking, integrity, cross-functional collaborations.
 
 ---
