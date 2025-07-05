@@ -12,6 +12,8 @@ I am currently focused on data-driven storytelling, performance analysis, and bu
 
 - **Certifications**: **ACA** (ICAN), **CFE** (ACFE), **Data Analytics** (EdgeLine Tech Academy)
 
+- **Education**: MSc. Accounting;  BSc. Accounting
+
 - **Soft Skills**: Attention to detail, analytical thinking, integrity, cross-functional collaboration
 
 
